@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zidane Ikkoy Ramadhan</h1>
 <h3 align="center">Newcomers Software Developer from Indonesia</h3>
 
-- 🌱 I’m currently an Internship at Dikti
+- 🌱 Fullstack developers at PT Dahana (BUMN)
 
 - 📫 How to reach me **ikkoyzrr@gmail.com**
 
