@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zidane Ikkoy Ramadhan</h1>
 <h3 align="center">I am jobless pls giv me a job</h3>
 
-- 📫 How to reach me **ikkoyzrr@gmail.com**
+- 📫 How to reach me **ikkoy123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
